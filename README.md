@@ -57,7 +57,32 @@ Type Terminal, then press Enter to launch it
 
 Copy the following command and paste it into Terminal, then press Return
 
-✅ Pros & Considerations
+ Common Use‑Cases
+Typical automation cases people actively implement:
+
+🪟 Dynamic Window Management: hotkeys for halves, quarters, multi-monitor tiling
+
+🎧 Audio Automation: auto-mute on sleep, headphone detection, switching outputs
+
+🔋 Battery Monitoring: popup alerts, percent & cycle tracking 
+reddit.com
+github.com
++1
+github-wiki-see.page
++1
+hammerspoon.org
+reddit.com
+
+🖱️ Pointer Visualizers: highlight cursor on clicks or for screen-sharing presentations 
+github.com
+
+📋 Clipboard History & Translation: maintain clip logs, call DeepL or other translators
+
+🌐 Network Events: trigger scripts on wifi change, USB device arrival
+
+⌨️ Launcher/Flow Tools: modal hyper keys, Seal launcher, AppWindowSwitcher
+
+🛠️ Project Automation: launch tools, arrange windows, run build scripts
 ✅ Advantages	⚠️ Considerations
 Extremely powerful & flexible	Steep learning curve (requires Lua)
 Open-source & actively maintained	Only macOS support
